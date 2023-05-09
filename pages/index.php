@@ -1,0 +1,1 @@
+<?php print 'pages klasöründeki index .....';?>
